@@ -4,8 +4,8 @@ Wishing you a wonderful day~ <3
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangaiNgaan)](https://github.com/anuraghazra/github-readme-stats)
+[![khangai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangaiNgaan)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangaiNgaan)](https://github.com/anuraghazra/github-readme-stats)
+[![khangai's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangaiNgaan)](https://github.com/anuraghazra/github-readme-stats)
