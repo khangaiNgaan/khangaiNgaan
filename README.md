@@ -4,8 +4,4 @@ Wishing you a wonderful day~ <3
 
 <br>
 
-![khangai's GitHub stats](https://github-readme-stats-teal-omega-53.vercel.app/api?username=khangaiNgaan)
-
-<br>
-
-![khangai's GitHub stats](https://github-readme-stats-teal-omega-53.vercel.app/api?username=khangaiNgaan)
+[![Top Langs](https://github-readme-stats-teal-omega-53.vercel.app/api/top-langs/?username=khangaiNgaan)](https://github.com/anuraghazra/github-readme-stats)
