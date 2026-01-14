@@ -3,7 +3,7 @@ Wishing you a wonderful day~ <3
 ```
 
 ```
-18yo, college student, GIS Major, based in Hangzhou
+18yo, college student, GIS Major
 ```
 
 <br>
