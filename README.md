@@ -1,5 +1,5 @@
 ```
-Wishing you a wonderful day~ <3
+什么都不会, 真想哭
 ```
 
 [![Top Langs-Dark](https://github-readme-stats-teal-omega-53.vercel.app/api/top-langs/?username=khangaiNgaan&show_icons=true&theme=github_dark_dimmed&hide=html&layout=compact&stats_format=bytes#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
